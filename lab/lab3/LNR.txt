@@ -1,0 +1,8 @@
+low: 15 high: 22 ,BLACK,max: 22
+low: 20 high: 25 ,RED,max: 28
+low: 25 high: 28 ,BLACK,max: 28
+low: 30 high: 32 ,BLACK,max: 90
+low: 32 high: 34 ,RED,max: 34
+low: 35 high: 40 ,BLACK,max: 40
+low: 50 high: 60 ,RED,max: 90
+low: 70 high: 90 ,BLACK,max: 90
